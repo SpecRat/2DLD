@@ -17,6 +17,7 @@ CONTRIBUTING,
 as of right now, my code is a mess. 
 if its been like this for a little bit, please politely ping me on discord and i should get to it (a  rat#3272)(two spaces)
 if i like it, i will add it. if I dont like it i might change it to be something you enable/disable in the code, or, ask you to make your own copy of this and add it to that.
+
 CUSTOM LICENCE. 
 idk how these work but let me take a shot at it. 
 same thing as an mit licence, how ever any edits or new things you add must(if your ok with it i am flexable) be added to the origonal via PR. i will give you credit for your PR's I would just be sad if you Made your own cool version, and then I, or others could not admire/test/tinker withit.
