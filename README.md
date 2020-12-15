@@ -8,7 +8,7 @@ once done click open, and select matrix.pde
 click the play button and your done!
 
 
-CONTROLLS
+CONTROLS
 arrow keys: use the arrow keys to move a gray dot around leaving a trail of blackness just dont to out of bounds!
 space:invert all the pixels on the screen as of now there is only one color value,
 r:randomly color screen, was my first step towards a cellular automaton. could it be yours too?
@@ -19,7 +19,7 @@ if its been like this for a little bit, please politely ping me on discord and i
 if i like it, i will add it. if I dont like it i might change it to be something you enable/disable in the code, or, ask you to make your own copy of this and add it to that.
 
 CUSTOM LICENCE. 
-idk how these work but let me take a shot at it. 
+i don't know how these work but let me take a shot at it. 
 same thing as an mit licence, how ever any edits or new things you add must(if your ok with it i am flexable) be added to the origonal via PR. i will give you credit for your PR's I would just be sad if you Made your own cool version, and then I, or others could not admire/test/tinker withit.
 perhaps in a few years there might be celebraty coders names or commits. on the document. It would make me so proud IF this gets hundreds of usernames on it.
 ```EX:
